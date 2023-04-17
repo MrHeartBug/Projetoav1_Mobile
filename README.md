@@ -2,7 +2,7 @@
 ## Brainy Traveler app - Criador de tópicos para viagens.
 ### Objetivos:
 
-O propósito do app é ajudar o úsuario em organizar as viagens por meio de tópicos criados pelo proprio úsuario, como por exemplo:
+O propósito do app é ajudar o usuário em organizar as viagens por meio de tópicos criados pelo próprio usuário, como por exemplo:
 
 * Itens para levar nas malas
 * Lugares para ir
@@ -10,7 +10,7 @@ O propósito do app é ajudar o úsuario em organizar as viagens por meio de tó
 
 ### Como usar?
 
-Primeiramente, o úsuario vai se deparar com uma interface simples e minimalista com um botão no meio com um ícone de "+" e uma frase "Add Topics".
+Primeiramente, o usuário vai se deparar com uma interface simples e minimalista com um botão no meio com um ícone de "+" e uma frase "Add Topics".
 * Clique no tópico
  
 * Depois digite o que desejar no bloco
